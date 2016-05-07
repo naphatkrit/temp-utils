@@ -22,4 +22,6 @@ setup(
     extras_require={'tests': tests_require},
     tests_require=tests_require,
     url='https://github.com/naphatkrit/temp-utils',
+    keywords=['temporary', 'temp', 'chdir',
+              'temp_file', 'tempfile', 'tempdir', 'temp_dir'],
 )
